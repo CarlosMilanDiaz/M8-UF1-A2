@@ -22,6 +22,6 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 |Google Calendar|![image](https://user-images.githubusercontent.com/96111883/190674865-81a9d431-b6a7-4ff0-991c-cb8b90b3d12f.png)
 |Google Meet|![image](https://user-images.githubusercontent.com/96111883/190674966-89177794-1110-49f5-b317-a17570c74550.png)
 |...|...|
-
+```html
 6. ¿Qué es <HTML> ?
 
